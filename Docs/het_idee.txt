@@ -1,0 +1,15 @@
+Space game
+
+Idee is om een user te laten beginnen met een spaceship, waar hij vrij in kan rondlopen.
+Hij kan het schip alleen besturen als hij bij de controlepanelen staat.
+
+Zodra je een schip hebt, kan je resources halen bij de dichtbij-gespawnde planeet. (Dit werkt als een soort tutorial,
+zodra je genoeg resources hebt en alle basisdingen begrijpt, kom je in de "mmo"-wereld, waar je spelers kunt tegenkomen.
+
+Je moet wapens maken, ammo maken en in de wapens stoppen, muren repareren, deuren sluiten om
+luchtlekken te stoppen, etc. Er is genoeg te doen dus.
+
+Er kunnen andere spelers het schip joinen, om als boordwerktuigkundige te werken, of om deuren te sluiten, of om schepen
+te enteren, ga zo maar door. Een limiet van 4-6 spelers per schip?
+
+Wordt nog uitgebreid binnenkort.
